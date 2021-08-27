@@ -1,7 +1,7 @@
 @import "https://fonts.googleapis.com/css?family=Quicksand&display=swap";
 
 body {
-  background-color: #00a8cc;
+  background-color: #0088a6;
   color: whitesmoke;
   text-align: center;
   font-family: 'Quicksand', sans-serif;
@@ -20,8 +20,17 @@ table {
   table-layout: fixed;
 }
 
-.description {
-  width: 18em;
+.tech_description {
+  width: 20em;
+  vertical-align: top;
+}
+
+.project_title {
+  vertical-align: top;
+}
+
+.project_description {
+  width: 25em;
 }
 
 table.work ul {
@@ -29,11 +38,11 @@ table.work ul {
 }
 
 .skills {
-  width: 18em;
+  width: 25em;
 }
 
 table.hobbies {
-  width: 45em;
+  width: 50em;
 }
 
 .hobby_header {
