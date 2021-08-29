@@ -8,6 +8,23 @@ body {
   margin: 0;
 }
 
+.header {
+  background-color: #4b4b4b;
+}
+
+.header p {
+  color: #ffa41b;
+}
+
+.header_links {
+  text-align: right;
+}
+
+.header_links a {
+  color: #ffa41b;
+  margin-right: 1em;
+}
+
 .content_wrapper {
   margin-left: auto;
   margin-right: auto;
@@ -65,7 +82,7 @@ hr {
 }
 
 h1{
-  color: #ffa41b;
+  color: #00a8cc;
 }
 
 h3{
