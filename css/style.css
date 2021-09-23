@@ -17,7 +17,8 @@ body {
 }
 
 .header_links {
-  text-align: right;
+  margin-right: 17em;
+  text-align: center;
 }
 
 .header_links a {
